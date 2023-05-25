@@ -118,6 +118,12 @@ XG boosting
 
 # Conclusion 
 
-XG Boosting and Random Forest had over 80% accuracy in predicting if a patient has Parkinson or not.
+The evaluation of the models was done using the evaluate_classification_model function, which provided a confusion matrix, accuracy score, and kappa score. 
+
+
+The results showed that both Gradient Boosting and XG Boost achieved high accuracy and kappa scores, with over 88% accuracy and a kappa score of over 80%.
+
+The slides can be found in the slides folder.
+
 
 
